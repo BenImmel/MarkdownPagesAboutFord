@@ -1,5 +1,7 @@
 # Markdown Project for INFOTC 1600
 
+# FORD
+
 ## Topics
 - [Topic 1: History of Ford](history.md)
 - [Topic 2: Iconic Vehicles](vehicles.md)
